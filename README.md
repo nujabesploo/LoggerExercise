@@ -4,7 +4,8 @@
 
 ## 📸 Screenshot  
 Take a sneak peek at the code in action:  
-![Project Screenshot](./image.png)  
+
+<img src="https://github.com/user-attachments/assets/2b6c0a29-a16a-43f2-9adf-ed367326ae51" alt="Screenshot" width="400" height="200">
 
 ---
 
